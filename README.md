@@ -1,4 +1,6 @@
 # Superstore-Transport-Optimization-ML
+<img src="photos/SSP1.JPG" width="100%">
+<img src="photos//SSP2.JPG" width="100%">
 ![Page1](photos/SSP1.JPG)
 ![Page2](photos/SSP2.JPG)
 ![Page3](photos/SSP3.JPG)
